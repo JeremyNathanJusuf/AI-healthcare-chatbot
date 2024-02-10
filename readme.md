@@ -1,3 +1,3 @@
 # AI Healthcare Chatbot
 
-Welcome, stay tuned on progress ahead! 
+This branch contains all notebooks related to vector database (for medical data) and RAG Assistant development. 
